@@ -12,4 +12,6 @@ To see the live demo of this project click on this link https://parallax-world-1
 
 this project is made using HTML , CSS and javascript.
 
+Important note -This will work only in large device (not suitable for mobile device)
+
 Feel free to contribute.
